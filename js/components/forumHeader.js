@@ -1,4 +1,4 @@
-var forumHeader = React.createClass({
+var ForumHeader = React.createClass({
    render: function(){
        return (
            <nav className="navbar navbar-default">
